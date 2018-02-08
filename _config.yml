@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rua-Ismail 
-email: roaa.abuluka@gmail.com
-description: >- # this means to ignore newlines until "baseurl:rua_blog "
+email: rua.abuluka@gmail.com
+description: >- # this means to ignore newlines until "baseurl: Rua_Ismail "
  This blog is for submitting high quality and in-depth content about Statistics, Data Analysis, Machine learning and Data science. 
 twitter_username: RoaaAbuluka
 github_username: 
